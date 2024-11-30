@@ -26,6 +26,9 @@ def start_quiz_game():
     questions: list[str] = list(questions_and_answers.keys())
     random_question: str = random.choice(questions)
 
+    # print the random question
+    print(f"{random_question.capitalize()}")
+
     # Take answer input from user
     answer: str = str(input("Your answer: ")).strip().lower()
 
