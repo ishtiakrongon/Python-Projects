@@ -1,11 +1,11 @@
 """A simple quiz game project"""
 import random
 
-def quiz_game():
+def quiz_game() -> None :
     print("Welcome to my computer quiz!")
 
     while True:
-        play_game = str(input("Do you want to play the quiz game? (yes/no): "))
+        play_game: str = str(input("Do you want to play the quiz game? (yes/no): "))
 
         if play_game.strip().lower() != 'yes':
             print("Thanks for coming here! Have a good day.")
@@ -14,7 +14,7 @@ def quiz_game():
             start_quiz_game()
 
 
-def start_quiz_game():
+def start_quiz_game() -> None:
     print("Guess The Answer\n")
 
     questions_and_answers: dict[str, str] = {
