@@ -17,3 +17,7 @@ program ensures user-friendly input handling and provides accurate conversion re
 ## <a href="Temperature_Conversion/temperature.py">4. Temperature Conversion</a>
 <p>This Temperature Conversion project allows users to convert temperatures between Celsius and Fahrenheit. This program
 gracefully handles invalid inputs to ensure a smooth user experience.</p>
+
+## <a href="Email_Slicer/email_slicer.py">5. Email Slicer Program</a>
+<p>This email slicer program allows user to input their email address as a string then show the output as a username and
+domain name separately.</p>
