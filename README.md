@@ -21,3 +21,7 @@ gracefully handles invalid inputs to ensure a smooth user experience.</p>
 ## <a href="Email_Slicer/email_slicer.py">5. Email Slicer Program</a>
 <p>This email slicer program allows user to input their email address as a string then show the output as a username and
 domain name separately.</p>
+
+## <a href="Compund_Interest_Calculator/compund_interest.py">6. Compound Interest Calculator</a>
+<p>This email slicer program allows user to input their email address as a string then show the output as a username and
+domain name separately.</p>
