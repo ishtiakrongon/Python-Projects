@@ -30,3 +30,11 @@ domain name separately.</p>
 in seconds and then counts down to zero, displaying the time remaining in the format HH:MM:SS. Once the time is up, 
 a message "Times up!" is displayed. This script utilizes basic Python functions and the time module to achieve 
 its functionality.</p>
+
+## <a href="Concession_Stand_Program/concession_stand.py">8. Concession Stand Program</a>
+<p>A python based terminal application simulating a concession stand menu. Features include: </p>
+<ul>
+    <li>Dynamic menu display with pricing.</li>
+    <li>Adding items to a cart with real-time quantity and price calculations.</li>
+    <li>User-friendly input validation and cart summary.</li>
+</ul>
