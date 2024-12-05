@@ -23,5 +23,10 @@ gracefully handles invalid inputs to ensure a smooth user experience.</p>
 domain name separately.</p>
 
 ## <a href="Compund_Interest_Calculator/compund_interest.py">6. Compound Interest Calculator</a>
-<p>This email slicer program allows user to input their email address as a string then show the output as a username and
-domain name separately.</p>
+<p>This is a compound interest calculator which is implemented in python.</p>
+
+## <a href="Countdown_timer/countdown_timer.py">7. Countdown Timer</a>
+<p>This project is a simple yet functional countdown timer written in Python. It allows users to input a specific time 
+in seconds and then counts down to zero, displaying the time remaining in the format HH:MM:SS. Once the time is up, 
+a message "Times up!" is displayed. This script utilizes basic Python functions and the time module to achieve 
+its functionality.</p>
