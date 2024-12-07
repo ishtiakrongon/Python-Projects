@@ -25,11 +25,9 @@ while True:
           or (user_input == 'paper' and computer_pick == 'rock')):
             print("You Win!")
             user_wins += 1
-            continue
     else:
         print("You Lose!")
         computer_wins += 1
-        continue
 
 score: str = f"Your total Score: {user_wins}.\nComputer's total Score: {computer_wins}."
 print(score)
