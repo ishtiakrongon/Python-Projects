@@ -38,3 +38,7 @@ its functionality.</p>
     <li>Adding items to a cart with real-time quantity and price calculations.</li>
     <li>User-friendly input validation and cart summary.</li>
 </ul>
+
+## <a href="Rock_Paper_Scissors/alternate_version.py">9. Rock, Paper, Scissors Game</a>
+<p>A simple command-line implementation of the classic "Rock, Paper, Scissors" game using Python. Players can challenge
+the computer in this fun and interactive game. The project tracks wins and losses, providing real-time score updates.</p>
