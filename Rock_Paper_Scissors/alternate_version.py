@@ -12,7 +12,10 @@ def get_user_choice() -> str:
         user_input: str = input("Enter your choice (rock, paper, scissors): ").strip().lower()
 
         if user_input not in options:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice. Please select from these options given below:- ")
+
+            for index, option in enumerate(options, start=1):
+                print(f"{index}. {option}.")
             continue
         else:
             return user_input
