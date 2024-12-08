@@ -42,3 +42,7 @@ its functionality.</p>
 ## <a href="Rock_Paper_Scissors/alternate_version.py">9. Rock, Paper, Scissors Game</a>
 <p>A simple command-line implementation of the classic "Rock, Paper, Scissors" game using Python. Players can challenge
 the computer in this fun and interactive game. The project tracks wins and losses, providing real-time score updates.</p>
+
+## <a href="Encryption_Program/encryption_program.py">10. Encryption Program</a>
+<p>A simple yet effective encryption program using Python. This project allows users to securely encrypt and decrypt 
+messages. It supports various characters, including punctuation, digits, and letters.</p>
